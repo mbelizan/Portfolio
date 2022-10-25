@@ -490,7 +490,7 @@ footer a{
         text-align: center;
     }
     nav.responsive ul li{
-        margin: 5px 0;
+        margin: 10px 0;
     }
     #icono-nav{
         display: block;
@@ -524,6 +524,13 @@ footer a{
         display: block;
     }
     #proyectos .fila .proyecto{
+        margin: 10px auto;
+    }
+    #proyectos .fila2{
+        padding: 50px 0;
+        display: block;
+    }
+    #proyectos .fila2 .diseño-proyecto{
         margin: 10px auto;
     }
 
